@@ -13,7 +13,7 @@ function App({ child }) {
         <main>
           {child}
         </main>
-        <footer>&copy; {year} <a tabIndex={0} href='mailto:john.macgregor@john-macgregor.dev'>Johnathan MacGregor</a></footer>
+        <footer>&copy; {year} <a tabIndex={0} href='mailto:samgio13@gmail.com'>Sam Giordano</a></footer>
         <div className='right-gutter'></div>
       </div>
   );
