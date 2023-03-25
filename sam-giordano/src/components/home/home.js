@@ -9,7 +9,7 @@ function Home() {
         <img src={logo} alt={logoAlt}/>
         <h1>Welcome!</h1>
         <div>
-            <p>This is the online home for John MacGregor, the software professional who resides in Ohio, USA.</p>
+            <p>Sam's Page</p>
             <p>The goal of this site is to provide:</p>
             <ul>
                 <li><a tabIndex={0} href='/about'> A short bio</a></li>
@@ -20,10 +20,10 @@ function Home() {
                     <li>My public body of work</li>
                   </ul>
                 </li>
-                <li><a tabIndex={0} href='https://github.com/jdmac020/john-macgregor'>A living example of my abilities</a></li>
+                <li><a tabIndex={0} href='https://github.com/cryptid13'>GIT</a></li>
             </ul>
-            <p>My intention is to provide an easy way for you to learn about me and what I can bring to the table, without a lot of hassle.</p>
-            <p>If you have any questions after poking around, don't hesitate to reach out to me <a href='mailto:john.macgregor@john-macgregor.dev'>via my email</a>.</p>
+            <p>INFO</p>
+            <p>INFO<a href='mailto:samgio13@gmail.com'>via my email</a>.</p>
         </div>
     </div>
   );
