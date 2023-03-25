@@ -16,6 +16,6 @@ jobs:
         with:
           node-version: 16.13.2
       - name: Install modules
-        run: cd john-macgregor && npm install
+        run: cd sam-giordano && npm install
       - name: Run Tests
-        run: cd john-macgregor && npm test
+        run: cd sam-giordano && npm test
